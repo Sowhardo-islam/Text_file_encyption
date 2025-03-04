@@ -1,0 +1,8 @@
+install pyinstaller  --- by command ---      pip install pyinstaller
+
+
+
+pyinstaller --onefile Genareate.py
+
+pyinstaller --onefile encrypt.py
+
